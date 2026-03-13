@@ -12,7 +12,7 @@ This setup focuses on keeping things simple and clean while still looking good. 
 
 ## Preview
 
-![screenshot](https://raw.githubusercontent.com/iceeyz1/lightweight-red/main/screenshots/screenshot.png)
+![screenshot](https://github.com/iceeyz1/lightweight-red/blob/main/screenshots/screenshot.png)
 
 ---
 
