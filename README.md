@@ -13,7 +13,7 @@ This setup focuses on keeping things simple and clean while still looking good. 
 
 ## Preview
 
-screenshot here
+![screenshot](https://raw.githubusercontent.com/iceeyz1/lightweight-red/main/screenshots/screenshot.png)
 
 ---
 
