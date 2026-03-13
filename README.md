@@ -3,7 +3,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/iceeyz1/lightweight-red)
 ![GitHub stars](https://img.shields.io/github/stars/iceeyz1/lightweight-red?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/iceeyz1/lightweight-red)
-![License](https://img.shields.io/github/license/iceeyz1/lightweight-red)
 
 My **Hyprland dotfiles** with a lightweight red aesthetic.
 
